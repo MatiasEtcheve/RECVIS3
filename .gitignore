@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+.python-version
+
+tensorboard_logs
+experiment
+
+bird_dataset/test_images/
+bird_dataset/train_images/
+bird_dataset/val_images/
