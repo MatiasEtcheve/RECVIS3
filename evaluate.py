@@ -3,9 +3,8 @@ import os
 
 import PIL.Image as Image
 import torch
-from tqdm import tqdm
-
 from model import Net
+from tqdm import tqdm
 
 parser = argparse.ArgumentParser(description="RecVis A3 evaluation script")
 parser.add_argument(
