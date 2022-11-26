@@ -1,3 +1,5 @@
+imagesize==1.4.1
+neptune_client==0.16.13
 pytorch_lightning==1.8.1
 torch==1.12.1
 torchvision==0.13.1
